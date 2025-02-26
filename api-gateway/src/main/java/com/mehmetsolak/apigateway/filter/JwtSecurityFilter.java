@@ -1,4 +1,4 @@
-package com.mehmetsolak.apigateway.service.filter;
+package com.mehmetsolak.apigateway.filter;
 
 import com.mehmetsolak.apigateway.service.JwtService;
 import org.springframework.cloud.gateway.filter.GatewayFilter;
